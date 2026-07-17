@@ -1,4 +1,4 @@
-# proyecto-integrador-html1
+# PROYECTO-INTEGRADOR-HTML1
 
 **Nombre del estudiante:** Karen Yamileth Jiménez Galicia
 **Carné:** 0905237626
