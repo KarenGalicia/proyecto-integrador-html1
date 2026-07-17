@@ -11,7 +11,7 @@ navegación por teclado) y organización correcta del documento mediante
 etiquetas semánticas (header, nav, main, section, article, aside, footer).
 
 ## Validación W3C
-El archivo index.html fue validado con el Validador oficial de W3C 
+El archivo indexK.html fue validado con el Validador oficial de W3C 
 (https://validator.w3.org/) y no presenta errores ni warnings.
 
 > Ver captura de la validación: validacion-w3c.png (en este repositorio)
@@ -20,6 +20,6 @@ El archivo index.html fue validado con el Validador oficial de W3C
 
 proyecto-integrador-html
 │
-├── index.html
+├── indexK.html
 ├── validacion-w3c.png
 └── README.md
